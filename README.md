@@ -20,14 +20,13 @@ class Sanskar:
 ### Tech
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,mysql,vscode,linux"/>
 </p>
 
 ### Stats
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://imgs.search.brave.com/zL_pI-2Q6cAB-0GxntDu3m71-E7eTcmIG5RLxyn3rj4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzc0Lzk3/LzgwLzc0OTc4MDY4/OWUzYzlkMDYyNzQ0/MzA4ZWVmY2NiZmMx/LmpwZw"/>
 </p>
 
 <div align="center">

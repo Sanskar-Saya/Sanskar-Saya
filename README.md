@@ -4,7 +4,7 @@
 
 *"Evolving myself Further Towards The ETERNITY."*
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=9D8CFF&center=true&vCenter=true&width=450&lines=Aerospace+Engineering;Python+Developer;Machine+Learning;Always+Learning..."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=9D8CFF&center=true&vCenter=true&width=450&lines=Aerospace+Engineering;Python+Developer;OSINT;Always+Evolving..."/>
 
 </div>
 

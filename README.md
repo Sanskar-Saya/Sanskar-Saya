@@ -2,7 +2,7 @@
 
 # こんにちは, I'm Sanskar (Kufa)
 
-*"Building things that fly, and teaching machines to think."*
+*"Evolving myself Further Towards The ETERNITY."*
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=9D8CFF&center=true&vCenter=true&width=450&lines=Aerospace+Engineering;Python+Developer;Machine+Learning;Always+Learning..."/>
 
@@ -13,14 +13,14 @@
 ```python
 class Sanskar:
     role = "Aerospace Engineering Student"
-    code = ["Python", "C++", "MySQL"]
-    interests = ["AI", "ML", "Data Science", "Aerospace"]
+    code = ["Python", "HTML", "MySQL"]
+    interests = ["AI", "OSINT", "Data Science", "Aerospace"]
 ```
 
 ### Tech
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,mysql,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=python,git,github,mysql,vscode,linux,html,osint"/>
 </p>
 
 ### Stats
@@ -31,6 +31,6 @@ class Sanskar:
 
 <div align="center">
 
-*"One more commit before sleep."* 🌙
+*"One more commit before going into my slumber."* 
 
 </div>

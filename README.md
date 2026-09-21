@@ -1,129 +1,43 @@
-<div align="center">
+# Hey, I'm Sanskar (Saya) 🛰️
 
-<img src="./img/top_profile.png">
+> Evolving myself further towards the ETERNITY.
 
-<img src="./img/top_about.png">
+Aerospace student interested in **space, cybersecurity, programming and research**.
 
-</div>
-
----
-
-<div align="center">
-
-### `about me`
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🧑‍💻 **Sanskar / Saya**  
-🧠 **INTJ**  
-🚀 **Aerospace Engineering**  
-🌌 **Astronomy & Space**  
-📚 **Literature & Novels**  
-🎬 **Anime**  
-🏸 **Badminton**  
-🐍 **Python**  
-🔐 **Cybersecurity**
-
-</td>
-
-<td width="50%" valign="top">
-
-> *"Evolving myself further towards the ETERNITY."*
-
-I like understanding how things work.
-
-I like space because it makes everything else feel appropriately small.
-
-I like stories that stay with me.
-
-And I probably think about things more than necessary.
-
-</td>
-</tr>
-</table>
+I like understanding how things work, building things around them,
+and occasionally breaking them in the process.
 
 ---
 
-<div align="center">
+### 🧠 Knowledge
 
-<img src="./img/mid_profile.png">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,rust,mysql,git,github,vscode,linux,bash,docker,numpy,pandas" />
+</p>
 
-</div>
+### 🛡️ Cybersecurity
 
----
+<p align="center">
+  Wireshark • Nmap • Burp Suite • Metasploit • OWASP 
+</p>
 
-<div align="center">
+### 🔭 Interests
 
-### `things i like`
-
-`White Album 2` · `ef` · `Steins;Gate`  
-`Sound! Euphonium` · `Oregairu`  
-`Bungo Stray Dogs` · `Date A Live`
-
-<br>
-
-**Characters:** `Ranpo` · `Dazai` · `Kurisu`
-
-</div>
+`Aerospace` `Space` `Astronomy` `Cybersecurity`
+`Threat Intelligence` `Programming` `Research`
 
 ---
 
-<div align="center">
+### 🚀 Projects
 
-<img src="./img/mid_banner.png">
+**Cynera**  
+Threat intelligence research and analysis.
 
-</div>
-
----
-
-<div align="center">
-
-### `currently`
-
-`learning` → cybersecurity  
-`studying` → aerospace  
-`reading` → novels  
-`watching` → anime  
-`thinking` → space
-
-</div>
+**Orbital Mechanics Calculator**  
+A Python-based tool for fundamental orbital mechanics calculations.
 
 ---
 
-<div align="center">
+### 🌙
 
-<img src="./img/mid_archive.png">
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./img/top-langs.svg">
-
-</div>
-
----
-
-<div align="center">
-
-> *"Some stories stay with you longer than expected."*
-
-<br>
-
-`One more commit before going into my slumber.`
-
-</div>
-
----
-
-<div align="center">
-
-<img src="./img/bottom_banner.png">
-
-</div>
+> One more commit before going into my slumber.

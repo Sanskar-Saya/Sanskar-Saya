@@ -23,7 +23,7 @@ and occasionally breaking them in the process.
 ---
 
 <p align="center">
-  <img src="https://www.desktophut.com/search/shorekeeper" width="750">
+  <img src="https://wallpapercave.com/wp/wp14557782.jpg" width="750">
 </p>
 
 ---

@@ -1,34 +1,62 @@
 <div align="center">
 
-# Sanskar
+<img src="./img/top_profile.png">
 
-`Saya`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8AB4F8&center=true&vCenter=true&width=550&lines=Aerospace+student.;Anime+%7C+Literature+%7C+Astronomy;Probably+thinking+too+much." />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Sanskar-Saya&label=Profile+Views&color=151b2b&style=flat-square" />
+<img src="./img/top_about.png">
 
 </div>
 
 ---
 
+<div align="center">
+
 ### `about me`
 
- Sanskar / Saya  
- INTJ  
- Aerospace Engineering  
- Astronomy & Space  
- Literature & Novels  
- Anime  
- Badminton  
- Python  
- Cybersecurity  
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🧑‍💻 **Sanskar / Saya**  
+🧠 **INTJ**  
+🚀 **Aerospace Engineering**  
+🌌 **Astronomy & Space**  
+📚 **Literature & Novels**  
+🎬 **Anime**  
+🏸 **Badminton**  
+🐍 **Python**  
+🔐 **Cybersecurity**
+
+</td>
+
+<td width="50%" valign="top">
 
 > *"Evolving myself further towards the ETERNITY."*
 
+I like understanding how things work.
+
+I like space because it makes everything else feel appropriately small.
+
+I like stories that stay with me.
+
+And I probably think about things more than necessary.
+
+</td>
+</tr>
+</table>
+
 ---
+
+<div align="center">
+
+<img src="./img/mid_profile.png">
+
+</div>
+
+---
+
+<div align="center">
 
 ### `things i like`
 
@@ -36,9 +64,23 @@
 `Sound! Euphonium` · `Oregairu`  
 `Bungo Stray Dogs` · `Date A Live`
 
+<br>
+
 **Characters:** `Ranpo` · `Dazai` · `Kurisu`
 
+</div>
+
 ---
+
+<div align="center">
+
+<img src="./img/mid_banner.png">
+
+</div>
+
+---
+
+<div align="center">
 
 ### `currently`
 
@@ -46,12 +88,42 @@
 `studying` → aerospace  
 `reading` → novels  
 `watching` → anime  
-`thinking` → space  
+`thinking` → space
+
+</div>
 
 ---
 
 <div align="center">
 
+<img src="./img/mid_archive.png">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./img/top-langs.svg">
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Some stories stay with you longer than expected."*
+
+<br>
+
 `One more commit before going into my slumber.`
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./img/bottom_banner.png">
 
 </div>

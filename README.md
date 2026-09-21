@@ -1,12 +1,14 @@
 <div align="center">
 
+<img src="./assets/asuka.jpg" width="180" alt="Anime profile">
+
 # Sanskar / Saya
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=8AB4F8&center=true&vCenter=true&width=650&lines=Threat+Intelligence+Researcher;Aerospace+Engineering+Student;Cybersecurity+%7C+OSINT+%7C+Research;Always+learning+something+new." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=8AB4F8&center=true&vCenter=true&width=700&lines=Threat+Intelligence+Researcher;Aerospace+Engineering+Student;Cybersecurity+%7C+OSINT+%7C+Research;Building%2C+breaking%2C+learning." />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Sanskar-Saya&label=Profile%20Views&color=8AB4F8&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Sanskar-Saya&label=PROFILE+VIEWS&color=151b2b&style=for-the-badge" />
 
 </div>
 
@@ -15,342 +17,185 @@
 <table>
 <tr>
 
-<td width="40%" align="center">
+<td width="55%" valign="top">
 
-<img src="./assets/asuka.jpg" width="100%" alt="Anime profile">
-
-<br><br>
-
-### Good Stories Stay
-
-> *"Evolving myself further towards the ETERNITY."*
-
-</td>
-
-<td width="60%" valign="top">
+## `sanskar@github:~$ whoami`
 
 ```text
-sanskar@github:~
--------------------------
+Name       : Sanskar Shrivastava
+Alias      : Saya
+Role       : Threat Intelligence Researcher
+Education  : Aerospace Engineering
 
-Name      : Sanskar Shrivastava
-Alias     : Saya
-Role      : Threat Intelligence Researcher
-Branch    : Aerospace Engineering
+Mind       : INTJ
+Languages  : Python / C / SQL
+Tools      : Git / GitHub / FastAPI
 
-Mind      : INTJ
-Languages : Python / C / SQL
-Tools     : Git / GitHub / FastAPI
+Interests  : Cybersecurity
+             Aerospace
+             Astronomy
+             Literature
+             Anime
 
-Focus     : Cybersecurity / OSINT
-Interest  : Aerospace / Astronomy
-Hobbies   : Anime / Literature / Novels
-Sport     : Badminton
+Status     : Learning...
+</td> <td width="45%" valign="top">
+// quote
 
-Status    : Always learning...
-```
+"Evolving myself further towards the ETERNITY."
 
 <br>
 
-> Somewhere between reality and imagination,
-> I keep building things that make sense to me.
+Somewhere between reality and imagination,
+I keep building things that make sense to me.
 
-</td>
+<br>
+┌──────────────────────────┐
+│ SYSTEM STATUS            │
+├──────────────────────────┤
+│ Cybersecurity     [ON]   │
+│ Aerospace         [ON]   │
+│ Research          [ON]   │
+│ Sleep             [OFF]  │
+└──────────────────────────┘
+</td> </tr> </table>
+// About Me
 
-</tr>
-</table>
+I'm Sanskar, also known as Saya.
 
----
+I'm an Aerospace Engineering student exploring the intersection of cybersecurity, threat intelligence, programming and research.
 
-## // About Me
+I enjoy understanding how systems work, collecting information, turning messy data into something useful, and building projects around things I actually find interesting.
 
-I'm **Sanskar**, also known as **Saya**.
+Outside technology, I'm interested in astronomy, literature, novels, anime and badminton.
 
-A curious mind interested in **cybersecurity, threat intelligence, aerospace, astronomy, programming and research**.
-
-I like understanding how things work, building small projects, reading, exploring new ideas and occasionally disappearing into an anime for several hours because apparently humans require fictional emotional damage.
-
-```text
-Cybersecurity       ███████████████████░░
-Threat Intelligence ██████████████████░░░
-Python              ███████████████████░░
-Aerospace           ████████████████░░░░░
-Research            █████████████████░░░░
-```
-
----
-
-## // Current Focus
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### Cybersecurity
-
-- Threat Intelligence
-- IOC Analysis
-- OSINT
-- Vulnerability Research
-- Threat Actor Research
-
-</td>
-
-<td width="33%" valign="top">
-
-### Aerospace
-
-- Orbital Mechanics
-- Space Systems
-- Astronomy
-- Planetary Science
-- Space Research
-
-</td>
-
-<td width="33%" valign="top">
-
-### Development
-
-- Python
-- C
-- SQL
-- FastAPI
-- Data Analysis
-- Backend Development
-
-</td>
-
-</tr>
-</table>
-
----
-
-## // Currently Working On
-
-```text
-[01] Cynera
-     └── Threat Intelligence Research Platform
-
-[02] Orbital Mechanics Calculator
-     └── Python-based orbital mechanics research tool
-
-[03] Threat Intelligence Research
-     └── IOC extraction / validation / classification
-
-[04] Aerospace Research
-     └── Orbital mechanics / space systems / astronomy
-```
-
----
-
-# Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## Cynera
-
-**Threat Intelligence Research Platform**
-
-A cybersecurity research project focused on collecting,
-processing, validating and analyzing threat intelligence
-from open sources.
-
-### Focus
-
-`Cybersecurity` `OSINT` `Threat Intelligence`
-
-`Python` `Research` `IOC Analysis`
-
-</td>
-
-<td width="50%" valign="top">
-
-## Orbital Mechanics Calculator
-
-**Python-based Research Tool**
-
-A calculator for solving common orbital mechanics
-problems using the two-body approximation.
-
-### Focus
-
-`Python` `Aerospace`
-
-`Orbital Mechanics` `Physics`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# Interests
-
-<table>
-<tr>
-
-<td align="center">
-
-### Cybersecurity
-
-Threat Intelligence  
-OSINT  
+// Current Focus
+<table> <tr> <td width="33%" valign="top">
+CYBERSECURITY
+Threat Intelligence
+IOC Analysis
+OSINT
 Vulnerability Research
-
-</td>
-
-<td align="center">
-
-### Aerospace
-
-Astronomy  
-Orbital Mechanics  
+Threat Actor Research
+Security Research
+</td> <td width="33%" valign="top">
+AEROSPACE
+Orbital Mechanics
+Space Systems
+Astronomy
+Planetary Science
 Space Exploration
+</td> <td width="33%" valign="top">
+DEVELOPMENT
+Python
+C
+SQL
+FastAPI
+Data Analysis
+Backend Development
+</td> </tr> </table>
+// Projects
+<table> <tr> <td width="50%" valign="top">
+Cynera
+Threat Intelligence Research Platform
 
-</td>
+A cybersecurity research project for collecting, processing, validating and analyzing threat intelligence from open sources.
 
-<td align="center">
+Working with:
 
-### Literature
+Python OSINT IOC Analysis
+Threat Intelligence Research
 
-Novels  
-Fiction  
-Research Papers
+Orbital Mechanics Calculator
+Aerospace Research Tool
 
-</td>
+A Python-based calculator for solving common orbital mechanics problems using the two-body approximation.
 
-<td align="center">
+Working with:
 
-### Anime
+Python Physics
+Orbital Mechanics Aerospace
 
-Visual Novels  
-Anime  
-Manga
+</td> <td width="50%" valign="top">
+Research
 
-</td>
+Currently exploring:
 
-</tr>
-</table>
+01. Threat Intelligence
+02. IOC Extraction
+03. IOC Validation
+04. Vulnerability Research
+05. OSINT
+06. Threat Actors
+07. Orbital Mechanics
+08. Aerospace Systems
+<br>
+Learning
+Cybersecurity
+Threat Intelligence
+Python
+Backend Development
+OSINT
+Security Research
+Aerospace
+Astronomy
+</td> </tr> </table>
+// Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode,linux,fastapi&theme=dark" /> </div>
+// GitHub
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sanskar-Saya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8AB4F8&icon_color=8AB4F8" height="170"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskar-Saya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8AB4F8" height="170"> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=Sanskar-Saya&theme=tokyonight&hide_border=true&background=0D1117&ring=8AB4F8&fire=8AB4F8&currStreakLabel=8AB4F8" /> </div> <br> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanskar-Saya&bg_color=0D1117&color=8AB4F8&line=8AB4F8&point=FFFFFF&area=true&hide_border=true" width="95%"> </div>
+// Anime Archive
 
----
+"Some stories stay with you longer than expected."
 
-# Anime Corner
-
-> *"Some stories stay with you longer than expected."*
-
-### Favorites
-
-```text
+Favorites
 White Album 2
 ef
-Steins Gate
+Steins;Gate
 Sound! Euphonium
 Bungo Stray Dogs
 Date A Live
+Oregairu
 Rascal Does Not Dream of Bunny Girl Senpai
-```
-
-### Characters
-
-```text
+Characters
 Asuka Tanaka
 Ranpo Edogawa
-Makisu Kurisu
-```
-# Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode,linux,fastapi&theme=dark" />
-
-</p>
-
----
-
-# What I'm Learning
-
-```text
+Dazai Osamu
+Makise Kurisu
+Current Waifu Status
+       ASUKA TANAKA
+             │
+             ▼
+      ┌─────────────┐
+      │  STILL HERE │
+      └─────────────┘
+             │
+             ▼
+      README survived
+      another redesign
+// Interests
+<div align="center">
+Cybersecurity	Aerospace	Literature	Anime
+Threat Intel	Astronomy	Novels	Anime
+OSINT	Orbital Mechanics	Fiction	Manga
+Vulnerability Research	Space	Research	Visual Novels
+</div>
+// Random Facts
+> Aerospace student
+> Threat intelligence researcher
+> Python enjoyer
+> Anime enjoyer
+> Literature enjoyer
+> Astronomy enthusiast
+> Badminton player
+> Probably thinking about space
+// Contact
+<div align="center"> <a href="https://github.com/Sanskar-Saya"> <img src="https://img.shields.io/badge/GitHub-Sanskar--Saya-8AB4F8?style=for-the-badge&logo=github&logoColor=white"> </a> </div>
+<div align="center">
 ┌─────────────────────────────────────────────┐
 │                                             │
-│  > Cybersecurity                            │
-│  > Threat Intelligence                      │
-│  > IOC Analysis                             │
-│  > OSINT                                    │
-│  > Vulnerability Research                   │
-│  > Python & Backend Development             │
-│  > Data Research & Analysis                 │
-│  > Aerospace & Orbital Mechanics            │
+│   "Evolving myself further towards the      │
+│              ETERNITY."                    │
 │                                             │
 └─────────────────────────────────────────────┘
-```
-
----
-
-# GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sanskar-Saya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskar-Saya&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180">
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sanskar-Saya&theme=tokyonight&hide_border=true&background=00000000" />
-
-</p>
-
----
-
-# GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanskar-Saya&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</p>
-
----
-
-# Contact
-
-<p align="center">
-
-<a href="https://github.com/Sanskar-Saya">
-<img src="https://img.shields.io/badge/GitHub-Sanskar--Saya-8AB4F8?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-8AB4F8?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────┐
-│                                     │
-│   "Evolving myself further          │
-│          towards the ETERNITY."     │
-│                                     │
-└─────────────────────────────────────┘
-```
-
-### One more commit before going into my slumber.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:151b2b,100:243b5a&height=120&section=footer"/>
-
-</div>
+One more commit before going into my slumber.
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:151B2B,100:243B5A&height=120&section=footer"> </div> ```

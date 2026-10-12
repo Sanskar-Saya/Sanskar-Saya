@@ -23,7 +23,7 @@ and occasionally breaking them in the process.
 ---
 
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp14557782.jpg" width="750">
+  <img src="https://in.pinterest.com/pin/363736107386593662/" width="750">
 </p>
 
 ---
@@ -102,7 +102,7 @@ Python-based tool for fundamental orbital mechanics calculations.
 ---
 
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp14557526.jpg" width="600">
+  <img src="https://in.pinterest.com/pin/353954851943176592/" width="600">
 </p>
 
 <p align="center">

@@ -21,7 +21,7 @@ Drawn to complex systems, quiet exploration, and the pursuit of understanding.
 ---
 
 <p align="center">
-  <img src="https://w.wallhaven.cc/full/k8/wallhaven-k8rx7q.png" width="760">
+  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/25523.jpg" width="760">
 </p>
 
 ---
@@ -82,7 +82,7 @@ Drawn to complex systems, quiet exploration, and the pursuit of understanding.
 ---
 
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp7323352.jpg" width="620">
+  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/26296.jpg" width="620">
 </p>
 
 <p align="center">

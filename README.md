@@ -21,7 +21,7 @@ Drawn to complex systems, quiet exploration, and the pursuit of understanding.
 ---
 
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp3093368.png" width="760">
+  <img src="https://w.wallhaven.cc/full/k8/wallhaven-k8rx7q.png" width="760">
 </p>
 
 ---
